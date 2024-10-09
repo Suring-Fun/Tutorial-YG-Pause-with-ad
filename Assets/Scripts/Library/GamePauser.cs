@@ -1,5 +1,3 @@
-using JetBrains.Annotations;
-using Unity.Mathematics;
 using UnityEngine;
 
 namespace SuringFun.Library
